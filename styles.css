@@ -1,0 +1,14 @@
+.container-fluid {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.link1{
+    border: 1px solid #000000;
+    background-color: bisque;
+}
+.fa-camera, .fa-location-dot{
+    border: 1px solid #63636383;
+    padding: 7px;
+    margin-top: 15px;
+    border-radius: 3px;
+}

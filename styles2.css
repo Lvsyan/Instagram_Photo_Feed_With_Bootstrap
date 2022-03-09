@@ -1,0 +1,70 @@
+.container-fluid {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+body{
+    background: #e8e8e8;
+    margin: 0;
+}
+div{
+    box-sizing: border-box;
+}
+header{
+    background: white;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+}
+div.post{
+    background: white;
+    margin-top: 10px;
+}
+div.post img{
+    width: 100%;
+}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+}
+div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child{
+    display: inline-block;
+    width: 18%;
+    padding: 10px;
+    text-align: right;
+    color: gray;
+}
+div.container{
+    width: 600px;
+    margin: auto;
+}
+.heart{
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.post {
+    margin-bottom: 50px;
+}
+.inline{
+    display: inline-block;
+}
+.fa-ellipsis-v{
+    margin-left: 400px;
+}
+.boton-centrar{
+    border:1px solid;
+}
+.link2{
+    border: 1px solid #000000;
+    background-color: bisque;
+}
+.fa-camera, .fa-location-dot{
+    border: 1px solid #63636383;
+    padding: 7px;
+    margin-top: 15px;
+    border-radius: 3px;
+}
