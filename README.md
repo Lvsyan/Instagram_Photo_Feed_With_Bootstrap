@@ -1,3 +1,19 @@
+Explicación del proceso del ejercicio:
+
+- Primero me dedique a hacer el navbar y tarde un poco porque tuve que cuadrar la 
+parte de la izquierda y la derecha en el medio que use un poco de css
+
+- Después de terminar el navbar me dedica a hacer la estructura de las imagenes para que sean filas de 3 y columnas de 3
+
+- Una vez tenia las imagenes listas y colocadas como queria, puse los dos botones en medio de la pantalla
+
+- Al tenerlos creados hice un html nuevo ya que no sabia hacerlo en condiciones con pill como Manu me explico
+
+- Hice también un CSS más para poder adecuar un poco todo para que fuera lo más parecido posible a como pedia el ejercicio
+
+- Y así las cartas estarían bien colocadas y en condiciones
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
